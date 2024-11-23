@@ -59,9 +59,10 @@ Open a browser and go to URL "http://localhost/crime/".
 
 Final step, Login from the User’s login side. Just provide the Admin’s login detail, it will redirect you to Admin panel.
 
-Full documentation for the **Crime Reporting System Project in PHP** is available at: ⬇️⬇️⬇️
+### Full documentation for the **Crime Reporting System Project in PHP** is available at: ⬇️⬇️⬇️
 
 https://itsourcecode.com/free-projects/php-project/crime-reporting-system-project-in-php-with-source-code/
+
 
 
 
